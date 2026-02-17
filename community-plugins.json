@@ -18235,6 +18235,13 @@
     "repo": "willjhliang/obsidian-papers"
   },
   {
+    "id": "paper-processor",
+    "name": "Paper Processor",
+    "author": "Jae Heon Jung",
+    "description": "Academic paper processing: OCR, translation, and blog generation with your own API keys.",
+    "repo": "heonyus/obsidian-paper-processor"
+  },
+  {
     "id": "custom-comment",
     "name": "Custom Comments",
     "author": "Jack Chronicle",
